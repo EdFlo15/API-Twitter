@@ -107,7 +107,7 @@ def showOneUser():
     summary="Delete a User",
     tags=["Users"]
 )
-def deleteUser():
+def deleteOneUser():
     pass
 
 @app.put(
